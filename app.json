@@ -39,5 +39,6 @@
     {
       "url": "https://github.com/heroku/predictionio-buildpack.git"
     }
-  ]
+  ],
+  "stack": "heroku-16"
 }
