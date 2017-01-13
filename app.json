@@ -1,5 +1,5 @@
 {
-  "name": "predictionio-engine-classification",
+  "name": "predictionio-engine-class",
   "scripts": {},
   "env": {
     "PIO_EVENTSERVER_ACCESS_KEY": {
